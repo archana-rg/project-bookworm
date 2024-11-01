@@ -1,2 +1,2 @@
 # project-bookworm
-Books Analysis NLP Project
+End to End Book Analysis Project - In Progress
